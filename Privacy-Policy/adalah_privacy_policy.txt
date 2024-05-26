@@ -1,0 +1,102 @@
+First: Introduction:
+
+1. The terms of the privacy policy mean the method of data collection and the method of protection
+Users' personal information This policy is very important.
+
+
+2. “User/Users”, wherever mentioned in this agreement, means anyone who
+By creating an account on the Adalah application in order to benefit from the services available there
+Or with the intention of providing services through it.
+
+3. The Adalah application does not mean any personal information for a specific person. Rather, personal information is collected from those wishing to use the application, including but not limited to requesting and providing services, browsing, or making contact by phone or email with our customer service team. Providing The user agrees to provide us with his/her personal information to process this information in accordance with the terms of the privacy policy.
+
+4. The terms of the Privacy Policy, or part of it, may be amended at any time, and the amended version will be published on the application, and the amended version of the (Privacy Policy) will be effective immediately from the date of its publication, and three days after the date Publish it in the application. Your continued use of the application is considered your commitment to the terms and conditions contained in the amended version of the privacy policy, and your satisfaction in applying the amendments to your personal data that you have provided us with. The application is not required to notify the customer of the amendments.
+
+5. By using the Adalah application, you agree to the terms of the privacy policy. The privacy policy is a legally binding agreement, and if any new features or tools are added to our services, it will also be subject to this policy.
+
+6. We will store your personal information, and it will be used and disclosed in accordance with what is permitted by regulations, laws and customs.
+
+
+
+Second: User information:
+
+1. We collect your name, address, email address, mobile number, general information about you, and commercial registration information if the user is A company or institution, and we need this information in order to enable you to benefit from our services, including but not limited to verifying your identity and contacting you if necessary.
+
+2. When you register on the Adalah application, we will ask you to provide us with your personal name, number, identity information, date of birth, and general information in order to monitor fraud and risks and comply with the applicable legal and regulatory requirements in accordance with the regulations of the Kingdom of Saudi Arabia.
+
+3. The user acknowledges that he grants the application access to the communication service on his phone, and access to his camera, photo library, files, and microphone to upload the required documents in order to be able to better benefit from the application services. The user also gives the application the right to send notifications.
+
+4. We collect information related to the services provided and measure performance, and this includes information about your activity, such as how you use our services and how you interact with lawyers.
+And so on.
+
+5. We collect information related to the service request and provision, and the conversations, attachments and communications that take place between the customer and the service provider through the application.
+
+6. The user agrees to grant the Adalah application the authority in the event that ownership of the application is transferred from the current owner to another owner, to share with the new owner all information related to the customer regarding the application.
+
+
+
+Third: Information for application visitors and support users:
+
+1. When you install the application on your device, we collect information about your name, email address, device information, operating system, browser you are using, network connection, your protocol address (Address IP), mobile network information including phone number and device identifiers, and we collect device location information if you You grant us access to your location, and we may also receive personal information when you submit support requests or other requests to the app, and we collect conversation text from chat support users.
+
+2. We collect the mobile number and record calls from mobile support users, in order to measure performance and raise the level of quality.
+ 
+3. We collect this information when you use the application or when you communicate with us by e-mail. We also collect any additional information that you may provide to us, and
+the application uses this information to serve you, improve its services, and answer any questions you may have.
+
+
+Fourth: Information from Cookies and Similar Tracking Technology:
+ 
+1. Cookies are sent to your device from a website and stored on your device, and we assign a different cookie to each device that connects to the App.
+ 
+2. We use cookies to recognize your device and provide you with personalized services, and to display personalized ads from Google or third parties.
+ 
+3. We may use automated tracking technologies and methods on the Application during communications with you or during your use of the App, to measure performance and to improve the Services.
+ 
+4. We analyze and use the information we have to evaluate and improve our services, research and develop and test new services and features, and perform troubleshooting activities, and we also use your information to respond to you when you contact us.
+
+
+Fifth: Sharing personal information with a third party:
+ 
+1. We may share your personal information with a third party to help develop and improve our services and to fix problems.
+ 
+2. In some circumstances, we may be required by government or judicial authorities to share information with them or with a third party to verify legal claims, satisfy national security requirements, enforce judicial rulings, or
+otherwise.
+ 
+3. We may share personal information with a third party to investigate or take action regarding suspected illegal or
+fraudulent activities, situations involving potential threats to the safety of any person, or in cases of violations of the terms of the Terms and Conditions Agreement or the Privacy Policy or as required by laws and regulations.
+ 
+4. We may also share personal information with the parties that own the application in the future, whether through a merger or acquisition, in whole or in part.
+ 
+5. We may use your information that we collect from you to market and advertise our services, and we may provide the information we collect to other companies to market their
+products or services.
+
+
+Sixth: General Provisions:
+ 
+1. Upon the end of our relationship with you, we will continue to store archived copies of your information and the information of legal services provided to you for commercial purposes and for our compliance with laws and regulations.
+ 
+2. When our relationship with you ends, we will continue to store anonymous information such as website visits without identifiers to improve our services.
+ 
+3. We keep your information securely by following standards in information security management to protect sensitive information such as financial information and details of any other personal information. Our information security systems apply to people, processes and information technology
+systems on the basis of risk management. A qualified third party manages and audits the means and payment mechanism.
+ 
+4. We assure you that no method of transmission over the Internet, or method of electronic storage is 100% secure, so we cannot guarantee the absolute security of your information.
+ 
+5. You can keep all of your personal information and your transaction history information and you can access it at any
+time, and we also give you limited powers in your account settings to allow you to correct, amend, delete or limit the use of your personal information.
+ 
+6. Your deletion or restriction of the use of your personal information may result in disabling satisfactory use of our services.
+ 
+7. The user acknowledges his/her knowledge and consent that the application records audio and video calls that take place through the application, and stores the content of the
+legal services provided and the accompanying attachments.
+ 
+8. The application has the right to use the contents of the legal services and the accompanying attachments and voice
+calls for any purpose it deems appropriate without defamation or abuse of the user.
+ 
+9. The user acknowledges the right of the application to use all that is stated in the privacy policy, and what may happen
+to it.
+ 
+10. If Qistas application, through the means of
+communication registered in the used application, notifies you of any notification to benefit from private information or any other information, then continuing to use the application or not answering the notification within a period of 4 days is considered acceptance and approval of the content of the
+notification, and the recipient of the notification has no right to object to what was mentioned in the notification future, and adhere to its contents.
